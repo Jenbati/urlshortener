@@ -14,7 +14,6 @@ Authenticated users can shorten long URLs, track click counts, and manage their 
 - Click count tracking
 - Delete short URLs
 - Bootstrap-based UI
-
 ---
 
 ## Tech Stack
@@ -56,9 +55,4 @@ python manage.py runserver
 Open your browser and visit:
 http://127.0.0.1:8000/
 
-### Features Available
-- User authentication (login, signup, logout)
-- Create short URLs
-- Automatic Base62 short code generation
-- Dashboard with click count tracking
-- Delete short URLs
+
