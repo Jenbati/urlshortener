@@ -55,4 +55,19 @@ python manage.py runserver
 Open your browser and visit:
 http://127.0.0.1:8000/
 
+## Screenshots
+
+### Login
+![Login Page](screenshots/login.png)
+
+### Signup
+![Signup Page](screenshots/signup.png)
+
+### Create Short URL
+![Create Short URL](screenshots/create.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
 
